@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a second-year Computer Science engineering student with a strong passion for technology and software development. Currently focused on building a solid foundation in modern tech stacks and exploring various domains within computer science. As a beginner, I’m committed to continuous learning, hands-on experimentation, and contributing to open-source projects as I grow.<br>
+I’m a third-year Computer Science engineering student with a strong passion for technology and software development. Currently focused on building a solid foundation in modern tech stacks and exploring various domains within computer science. As a beginner, I’m committed to continuous learning, hands-on experimentation, and contributing to open-source projects as I grow.<br>
 
 
 ## 🌐 Socials:
